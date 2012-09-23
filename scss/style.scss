@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 50px;
+  background: #666;
+}
+
+.page-wrap {
+  overflow: hidden;
+}
+
+.map {
+  width: 75%;
+  float: left;
+  img {
+    width: 100%;
+  }
+}
+
+aside {
+  width: 25%;
+  float: right;
+  padding: 0 10px;
+}
+
+.module {
+  background: white;
+  padding: 20px;
+}

@@ -1,0 +1,1 @@
+Small screens don't need iframe Google Maps, so they get a static image and link. Large screens get the fully interactive iframe.
